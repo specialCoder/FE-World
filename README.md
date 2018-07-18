@@ -17,27 +17,27 @@ FE 知识体系构建
 
 ## step by step
 
-> URL - 访问什么页面
+- URL -> 访问什么页面
         路由管理
         生态：react-router
         知识：broswerHistory、hash
 
-- Data - 显示什么信息
+- Data -> 显示什么信息
 状态管理
 生态：redux
 知识：
 
-- View - 页面长成什么样
+- View -> 页面长成什么样
 双向/单向绑定
 生态：react
 知识：模版字符串、defineProperty 等
 
-- Action - 对页面做了什么操作
+- Action -> 对页面做了什么操作
 订阅发布/异步Action
 生态： react-thunk 为代表的异步处理  Rxjs处理数据流
 知识：
 
-- API Server - Data 数据的来源
+- API Server -> Data 数据的来源
 网络请求与异步
 生态： axios rxjs react-observable
 知识：

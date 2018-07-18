@@ -2,6 +2,8 @@
 
 FE 知识体系构建
 
+[Reference](https://github.com/sorrycc/blog/issues/1) 
+
 ## Introduction
 
 以react为载体，如何看待前端世界：
